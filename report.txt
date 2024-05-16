@@ -1,0 +1,140 @@
+1) Number of Unique Links: 10079
+
+2) Longest Page: http://www.ics.uci.edu/~kay/wordlist.txt, 384890
+
+3) ics.uci.edu Subdomains
+accessibility.ics.uci.edu, 3
+acoi.ics.uci.edu, 60
+aiclub.ics.uci.edu, 1
+archive.ics.uci.edu, 2628
+asterix.ics.uci.edu, 1
+betapro.proteomics.ics.uci.edu, 3
+cbcl.ics.uci.edu, 83
+cdb.ics.uci.edu, 24
+cert.ics.uci.edu, 6
+chenli.ics.uci.edu, 9
+circadiomics.ics.uci.edu, 5
+cml.ics.uci.edu, 135
+code.ics.uci.edu, 9
+computableplant.ics.uci.edu, 8
+cradl.ics.uci.edu, 16
+create.ics.uci.edu, 6
+cwicsocal18.ics.uci.edu, 5
+cyberclub.ics.uci.edu, 13
+cybert.ics.uci.edu, 1
+dgillen.ics.uci.edu, 20
+duttgroup.ics.uci.edu, 65
+elms.ics.uci.edu, 10
+emj.ics.uci.edu, 14
+evoke.ics.uci.edu, 3
+flamingo.ics.uci.edu, 11
+fr.ics.uci.edu, 3
+frost.ics.uci.edu, 1
+futurehealth.ics.uci.edu, 51
+grape.ics.uci.edu, 1055
+graphics.ics.uci.edu, 6
+graphmod.ics.uci.edu, 1
+hai.ics.uci.edu, 5
+hobbes.ics.uci.edu, 9
+hpi.ics.uci.edu, 2
+i-sensorium.ics.uci.edu, 4
+iasl.ics.uci.edu, 17
+ibook.ics.uci.edu, 6
+ieee.ics.uci.edu, 1
+industryshowcase.ics.uci.edu, 18
+intranet.ics.uci.edu, 2
+ipf.ics.uci.edu, 1
+ipubmed.ics.uci.edu, 1
+isg.ics.uci.edu, 84
+jgarcia.ics.uci.edu, 21
+luci.ics.uci.edu, 3
+malek.ics.uci.edu, 1
+mcs.ics.uci.edu, 72
+mdogucu.ics.uci.edu, 5
+mhcid.ics.uci.edu, 8
+mlphysics.ics.uci.edu, 3
+mondego.ics.uci.edu, 3
+motifmap-rna.ics.uci.edu, 2
+motifmap.ics.uci.edu, 2
+mswe.ics.uci.edu, 13
+nalini.ics.uci.edu, 4
+ngs.ics.uci.edu, 696
+old-reactions.ics.uci.edu, 3
+pepito.proteomics.ics.uci.edu, 1
+perennialpolycultures.ics.uci.edu, 1
+plrg.ics.uci.edu, 16
+psearch.ics.uci.edu, 1
+redmiles.ics.uci.edu, 4
+riscit.ics.uci.edu, 1
+scale.ics.uci.edu, 5
+scratch.proteomics.ics.uci.edu, 1
+sdcl.ics.uci.edu, 185
+seal.ics.uci.edu, 37
+selectpro.proteomics.ics.uci.edu, 5
+sli.ics.uci.edu, 182
+sourcerer.ics.uci.edu, 1
+statconsulting.ics.uci.edu, 4
+studentcouncil.ics.uci.edu, 22
+swiki.ics.uci.edu, 4
+tad.ics.uci.edu, 1
+tastier.ics.uci.edu, 1
+transformativeplay.ics.uci.edu, 43
+unite.ics.uci.edu, 7
+vision.ics.uci.edu, 183
+wearablegames.ics.uci.edu, 5
+wics.ics.uci.edu, 229
+wiki.ics.uci.edu, 340
+www-db.ics.uci.edu, 16
+xtune.ics.uci.edu, 2
+
+4) Top 50 Words
+1. data : 39428
+2. uci : 23852
+3. research : 23323
+4. computer : 19899
+5. information : 16980
+6. learning : 16348
+7. time : 16120
+8. ics : 14860
+9. set : 14684
+10. classification : 14367
+11. contact : 14353
+12. students : 13518
+13. new : 13448
+14. science : 12571
+15. multivariate : 12508
+16. machine : 12266
+17. software : 11657
+18. news : 11216
+19. student : 11154
+20. real : 11098
+21. dataset : 10804
+22. view : 10671
+23. sciences : 10597
+24. policy : 10571
+25. project : 10291
+26. school : 10011
+27. engineering : 9797
+28. systems : 9363
+29. one : 9228
+30. series : 9060
+31. use : 8865
+32. graduate : 8753
+33. may : 8748
+34. policies : 8593
+35. type : 8483
+36. bren : 8467
+37. university : 8425
+38. repository : 8411
+39. us : 8409
+40. course : 8189
+41. sets : 8045
+42. design : 8005
+43. events : 7982
+44. undo : 7981
+45. using : 7938
+46. projects : 7737
+47. informatics : 7624
+48. irvine : 7493
+49. undergraduate : 7427
+50. edu : 7415
